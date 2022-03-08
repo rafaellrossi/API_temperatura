@@ -16,7 +16,7 @@ const tempo = (cid) => {
             document.getElementById('tempo').innerHTML = parseInt(json.main.temp);
             document.getElementById('nomeCidade').innerHTML = json.name
             document.getElementById('descrisao').innerHTML = json.weather[0].description
-            document.getElementById('icone').src = `http://openweathermap.org/img/wn/${json.weather[0].icon}@2x.png`
+            document.getElementById('icone').src = `https://openweathermap.org/img/wn/${json.weather[0].icon}@2x.png`
         });
 }
 
