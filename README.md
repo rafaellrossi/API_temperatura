@@ -1,5 +1,5 @@
 # API - temperatura
-Aplicação feita em Javascript, para consultar CEP de endereçamento do Brasil gratuitamente. Para Consultar CEP basta você fazer uma requisição http para a API do ViaCep e então obter o retorno com informações como CEP, nome da Rua, Cidade, UF, etc
+Este projeto é voltado para a utilização da API OpenWeather para consulta de clima em cidades.
 
 # Tecnologias utilizadas
 - HTML / CSS
@@ -7,7 +7,10 @@ Aplicação feita em Javascript, para consultar CEP de endereçamento do Brasil 
 - Javascript
 
 # API - Utilizada
-- API ViaCEP: http://viacep.com.br/
+- API  OpenWeather: https://openweathermap.org/current
+
+# Como utilizar?
+- O uso desta API é muito simples: no local de inserção de dados, você deve digitar o nome da cidade que deseja consultar o clima.
 
 # Link
 https://rafaellrossi.github.io/api_temperatura/
